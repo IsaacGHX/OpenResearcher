@@ -326,7 +326,9 @@ Then, follow the training instructions [here](https://github.com/jdf-prog/Megatr
 </table>
 
 ## 🙏 Acknowledgements
-We thank [Lambda](https://lambda.ai), [Netmind AI](https://www.netmind.ai/), [Verdent AI](https://www.verdent.ai) and [Serper](https://serper.dev/) for GPU and API support!
+<div align="center">
+  <img src="assets/imgs/ack.png" alt="Deep Research Benchmark Results" width="100%">
+</div>
 
 
 ## ✨ Contributing
