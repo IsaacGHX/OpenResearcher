@@ -5,7 +5,7 @@
 <div align="center" style="line-height: 1; margin-top: 16px;">
 
 <div align="center">
-    <a href="https://arxiv.org/abs/2603.20278v1"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white" alt="Blog"></a>
+    <a href="https://huggingface.co/papers/2603.20278"><img src="https://img.shields.io/badge/arXiv-B31B1B?style=for-the-badge&logo=arXiv&logoColor=white" alt="Blog"></a>
     <!-- <a href="https://x.com/DongfuJiang/status/2020946549422031040"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" alt="Blog"></a> -->
     <a href="https://github.com/TIGER-AI-Lab/OpenResearcher"><img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" alt="Blog"></a>
   <a href="https://huggingface.co/datasets/OpenResearcher/OpenResearcher-Dataset"><img src="https://img.shields.io/badge/Dataset-FFB7B2?style=for-the-badge&logo=huggingface&logoColor=ffffff" alt="Dataset"></a>
@@ -22,7 +22,8 @@
 </p>
 
 ## 📣 News 
-+ **[2026.2.25]** 🔥 Honored to be among the **top 3 trending datasets** on 🤗 [Hugging Face](https://huggingface.co/datasets) — now **11K+** downloads! 🚀
++ **[2026.3.24]** 🔥 The OpenResearcher [paper](https://huggingface.co/papers/2603.20278) is now available, highlighting practical insights into deep research pipeline design. Don't miss it.
++ **[2026.2.25]** Honored to be among the **top 3 trending datasets** on 🤗 [Hugging Face](https://huggingface.co/datasets) — now **11K+** downloads! 🚀
 + **[2026.2.18]** 🧪 The OpenResearcher training [code](https://github.com/TIGER-AI-Lab/OpenResearcher?tab=readme-ov-file#-optional-train-your-own-openresearcher) is now available. Start training your own OpenResearcher!
 + **[2026.2.14]** 📸 Excited to have our OpenResearcher demo [video](https://x.com/zhuofengli96475/status/2021682952074097086). Dive in and unlock the power of Deep Research today!
 + **[2026.2.12]**  🔥 Excited to see **OpenResearcher** powering deep research trajectory generation in [**NVIDIA’s NeMo Data Designer**](https://nvidia-nemo.github.io/DataDesigner/latest/devnotes/deep-research-trajectories-with-nemo-data-designer-and-mcp-tool-use/)!
